@@ -1,4 +1,4 @@
-echo "data/
+data/
 reports/
 .venv/
 venv/
@@ -8,4 +8,4 @@ __pycache__/
 *.db
 .env
 .DS_Store
-Thumbs.db" > .gitignore
+Thumbs.db > .gitignore
