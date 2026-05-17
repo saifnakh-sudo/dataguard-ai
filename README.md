@@ -1,4 +1,4 @@
-# 🛡️ DataGuard AI — Training Data Firewall
+# DataGuard AI — Training Data Firewall
 
 A three-phase defensive pipeline against data poisoning attacks on AI/ML models.
 
