@@ -222,9 +222,9 @@ with tab4:
         st.subheader("Email Report")
 
         with st.expander("Send via EmailJS", expanded=True):
-            ejs_service    = st.text_input("EmailJS Service ID",  value="service_ex9rkqj")
-            ejs_template   = st.text_input("EmailJS Template ID", value="template_fhastq6")
-            ejs_pubkey     = st.text_input("EmailJS Public Key",  value="nxtmDO9WPDWongJjX")
+            ejs_service    = st.text_input("EmailJS Service ID",  value="-----------------")
+            ejs_template   = st.text_input("EmailJS Template ID", value="-----------------")
+            ejs_pubkey     = st.text_input("EmailJS Public Key",  value="Paste your private key here")
             ejs_privatekey = st.text_input("EmailJS Private Key", placeholder="Paste your private key here", type="password")
             to_email       = st.text_input("Recipient email address", placeholder="you@example.com")
 
