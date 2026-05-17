@@ -67,15 +67,3 @@ dataguard/
 ├── requirements.txt
 └── README.md
 ```
-
-## Team Sprint Plan
-
-| Day | Task |
-|-----|------|
-| 1 | Setup + generate_dataset + poison_injector + train_baseline |
-| 2 | Phase 1 prevention filter |
-| 3 | Phase 2 Isolation Forest |
-| 4 | Phase 3 quarantine + retrain |
-| 5 | Dashboard integration |
-| 6 | Polish + slides + dry run |
-| 7 | Buffer + rehearsal |
